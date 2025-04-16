@@ -1,0 +1,14 @@
+{
+  "namespace": {
+    "Easy": "Dễ",
+    "Medium": "Trung Bình",
+    "Hard": "KHó",
+    "notset": "Chưa có",
+    "Settings": "Cài Đặt",
+    "Records": "Kỷ lục",
+    "Darkmode": "Chế Độ Tối",
+    "Difficulty": "ĐỘ Khó:",
+    "Languages": "Ngôn Ngữ:",
+    "Vibration": "Rung:"
+  }
+}
