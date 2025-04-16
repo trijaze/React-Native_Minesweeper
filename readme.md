@@ -1,4 +1,3 @@
-![Icon](/assets/iconForReadme.png "Icon")
 
 Minesweeper game developed with react-native and expo-cli
 
@@ -38,6 +37,3 @@ jotai ----------------> for state management
 i18next --------------> for multi language
 ```
 
-## Screens
-
-![Screen](/assets/Frame1.png)
